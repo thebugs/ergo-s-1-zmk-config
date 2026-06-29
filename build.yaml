@@ -18,7 +18,7 @@
 #
 ---
 include:
-  - board: nice_nano
+  - board: nice_nano//zmk
     shield: ergo_s1_oe_left
-  - board: nice_nano
+  - board: nice_nano//zmk
     shield: ergo_s1_oe_right
